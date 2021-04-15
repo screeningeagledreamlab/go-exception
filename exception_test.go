@@ -7,7 +7,7 @@ import (
 
 	"strings"
 
-	"github.com/blendlabs/go-assert"
+	"github.com/screeningeagledreamlab/go-assert"
 )
 
 func TestNew(t *testing.T) {
